@@ -122,4 +122,3 @@ I enjoy tackling real-life problems through code — whether in the form of acad
 
 ---
 
-Let me know if you'd like to add **screenshots of projects, academic certificates**, or a **research/publication section** next!
