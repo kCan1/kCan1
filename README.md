@@ -96,9 +96,9 @@ I enjoy tackling real-life problems through code — whether in the form of acad
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenpatrick&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=kenpatrick&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenpatrick&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kCan1&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=kCan1&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kCan1&layout=compact&theme=radical" height="160" />
 </div>
 
 ---
