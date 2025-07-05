@@ -3,7 +3,7 @@
 <!-- ================================================================ -->
 
 <h1 align="center">
-  🎓 Hello, I'm <span style="color:#00BFC0">Ken Patrick Garcia</span> — CS Student @ University of Makati 👋
+  🎓 Hello, I'm <span style="color:#00BFC0">Ken Patrick Garcia</span> | CS Student @ University of Makati 👋
 </h1>
 
 <p align="center">
