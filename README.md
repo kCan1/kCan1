@@ -16,7 +16,7 @@
 
 I am a **BSCS student** at the **University of Makati** passionate about crafting meaningful digital solutions. My educational journey revolves around building a solid foundation in **software development**, **problem-solving**, and **human-centered technology**.
 
-I enjoy tackling real-life problems through code — whether in the form of academic projects, research studies, or personal side quests.
+I enjoy tackling real-life problems through code, whether in the form of academic projects, research studies, or personal side quests.
 
 ---
 
